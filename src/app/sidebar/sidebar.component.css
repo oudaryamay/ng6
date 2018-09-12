@@ -1,0 +1,19 @@
+.sidebarApp {
+    background: #2D2E2E;
+    height: 100%; 
+    }
+
+.sidebarAppLink {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    } 
+
+.sidebarAppLink li a {
+    color: #fff;
+    padding: 20px;
+    display: block;  
+    }
+.sidebarAppLink li .activated {
+    background-color: #00a8ff;  
+    }
